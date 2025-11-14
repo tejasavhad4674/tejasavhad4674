@@ -50,7 +50,7 @@
 ### 🎯 Roles & Achievements
 
 - 🎓 **B.E. in Information Technology**, DPCOE Pune (Direct 2nd Year)
-- 👨‍💼 **President** – Coder’s Club
+- 👨‍💼 **Advisor & Ex-President** – Coder’s Club
 - 🎤 **Campus Ambassador** – Techfest IIT Bombay
 - 🧠 Participated in **Hackathons, Workshops, Research**, and more
 
