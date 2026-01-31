@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Vitthal Avhad</h1>
-<h3 align="center">🚀 Software Developer | 🎓 B.E. (IT) | 🏆 Campus Ambassador @ Techfest IIT Bombay | 👨‍💻 President – Coder's Club DPCOE</h3>
+<h3 align="center">🚀 Software Developer | 🎓 B.E. (IT) | 🏆 Campus Ambassador @ Techfest IIT Bombay | 👨‍💻 President(Former) & Advisor – Coder's Club DPCOE</h3>
 
 ---
 
